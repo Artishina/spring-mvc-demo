@@ -1,9 +1,13 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE>
 <html>
-<head>
-    <title>Title</title>
-</head>
+
 <body>
-    <h1>Welcome to Spring!</h1>
+
+<h2>Spring MVC Demo - Home Page</h2>
+
+<hr>
+
+<a href="showForm">Hello World form</a>
 </body>
+
 </html>
